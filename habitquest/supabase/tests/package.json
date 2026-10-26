@@ -1,0 +1,1 @@
+{ "name": "habitquest-db-tests", "private": true, "type": "module", "scripts": { "test": "node test_schema.mjs ../schema.sql" }, "dependencies": { "@electric-sql/pglite": "0.3.8" } }
